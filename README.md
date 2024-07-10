@@ -1,3 +1,6 @@
 # Pratico de JavaScript
 
-Proyecto realizado como practica de javascript
+Trabajo N°1 de JavaScript
+
+*Variables
+*Bucles
